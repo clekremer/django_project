@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-ni)!%4j(^smu76vpa=r0a82tr+&)5+$0ucd0&i_cqn(1w+v79a
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['8000-clekremer-djangoproject-07tlkyrcvfm.ws-eu114.gitpod.io', 'djangopro-db8e4e783643.herokuapp.com']
+ALLOWED_HOSTS = ['8000-clekremer-djangoproject-07tlkyrcvfm.ws-eu114.gitpod.io']
 
 
 # Application definition
